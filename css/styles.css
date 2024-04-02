@@ -1,0 +1,44 @@
+@charset "utf-8";
+/* CSS Document */
+
+header {
+	background-color: antiquewhite;
+	padding: 1px;
+	margin: -8px;
+}
+
+body {
+	background: linear-gradient(antiquewhite 60%, #E2C8A9 90%);
+}
+
+.title {
+	text-align: center;
+	color: #3dcfeb;
+	background-color: antiquewhite;
+}
+
+
+.part_1 {
+	padding: 150px;
+	font-size: 25px;
+}
+
+.part_2 {
+	padding: 150px;
+	font-size: 25px;
+}
+
+footer {
+	padding-top: 30px;
+	padding-bottom: 30px;
+}
+
+.next-prev_button {
+	background-color: #3dcfeb;
+	font-size: 20px;
+	border: 0px;
+	margin-left: 20px;
+	margin-right: 20px;
+	padding: 10px;
+	border-radius: 6px;
+}
